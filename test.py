@@ -30,7 +30,7 @@ from model.Models import AttU_Net, AttU_Net_min
 import cv2
 from model.unet_model import UNet
 
-
+#this is a test for 17/8 2024.
 def cal_miou(test_dir="./images/cracks/Test_Images",
              pred_dir="./images/cracks/results", gt_dir="./images/cracks/Test_Labels"):
     # ---------------------------------------------------------------------------#
